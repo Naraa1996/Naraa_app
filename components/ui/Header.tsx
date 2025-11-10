@@ -25,7 +25,7 @@ const Header = () => {
     <div className="flex justify-between items-center w-full px-6 py-4 bg-background border-b">
       {/* Зүүн тал */}
       <div className="flex items-center gap-6">
-        <h1 className="text-3xl font-semibold">DUKAREAL</h1>
+        <h1 className="text-3xl font-semibold">ЗАРЯАА ХӨ</h1>
 
         <Input placeholder="Үл хөдлөх хайх..." className="w-[200px]" />
 
